@@ -1,0 +1,29 @@
+package_rename_config:
+  android:
+    app_name: KTS
+    package_name: com.mancir.kts
+
+  ios:
+    app_name: KTS
+    bundle_name: ktsapp
+    package_name: com.mancir.kts
+
+  web:
+    app_name: KTS
+    description: Kafiyeli osmanlıca eşlemeli türkçe sözlük.
+
+  linux:
+    app_name: KTS
+    package_name: com.mancir.kts
+    exe_name: KTS-linux-x64
+
+  windows:
+    app_name: KTS
+    organization: MANCIR
+    copyright_notice: Copyright ©️ 2022 MANCIR. All rights reserved.
+    exe_name: KTS
+
+  macos:
+    app_name: KTS
+    package_name: com.mancir.kts
+    copyright_notice: Copyright ©️ 2022 MANCIR. All rights reserved.

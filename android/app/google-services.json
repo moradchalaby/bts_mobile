@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "217906887134",
+    "project_id": "kafiyelisozluk",
+    "storage_bucket": "kafiyelisozluk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217906887134:android:c2829c30e32b784f42454f",
+        "android_client_info": {
+          "package_name": "com.mancir.kts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217906887134-okhalbj4qc6cnn09rea7cvalb7qajov2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxcq7c7e6l3XG9sd23foyrAqFbNEgLV9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217906887134-okhalbj4qc6cnn09rea7cvalb7qajov2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3500157718156258~1200969243"
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\asus\\Desktop\\Develop\\flutter\\bts_mobile\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\asus\\Desktop\\Develop\\flutter\\bts_mobile\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "from": {
+                        "startLines": "3,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "172,1020",
+                        "endLines": "10,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "673,1184"
+                    },
+                    "to": {
+                        "startLines": "2,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,560",
+                        "endLines": "9,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "555,724"
+                    }
+                }
+            ]
+        }
+    ]
+}
