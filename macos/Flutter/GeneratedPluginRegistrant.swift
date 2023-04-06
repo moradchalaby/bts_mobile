@@ -7,7 +7,7 @@ import Foundation
 
 import desktop_window
 import firebase_core
-import path_provider_macos
+import path_provider_foundation
 import share_plus
 
 func RegisterGeneratedPlugins(registry: FlutterPluginRegistry) {
